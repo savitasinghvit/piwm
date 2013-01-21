@@ -17,5 +17,5 @@ Piwm is a very small window manager .. Following are the 4 task it performs :
 Screenshot
 ==========
 
-![Screenshot](https://github.com/nautical/piwm/raw/master/screenshot)
+![Screenshot](https://github.com/nautical/piwm/raw/master/screenshot.png)
 
