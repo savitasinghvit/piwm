@@ -12,3 +12,10 @@ Piwm is a very small window manager .. Following are the 4 task it performs :
 4) Alt + Mouseright  : Rescales the window
 
 5) Ctrl + F1 : Refocus the window
+
+
+Screenshot
+==========
+
+![Screenshot](https://github.com/nautical/piwm/raw/master/screenshot)
+
