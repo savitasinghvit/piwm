@@ -1,7 +1,7 @@
 Piwm
 ====
 
-Piwm is a very small window manager .. Following are the 4 task it performs :
+Piwm is a very small window manager .. Following are the 5 task it performs :
 
 1) Ctrl + t     : Opens xterm
 
